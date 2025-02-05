@@ -1,0 +1,9 @@
+OPENAI_API_KEY = "tu_clave_openai"
+ELEVENLABS_API_KEY = "tu_clave_elevenlabs"
+AUDIO_SAVE_PATH = "audios/"
+VOICE_SAVE_PATH = "voices/"
+OPENAI_MODEL = "gpt-3.5-turbo"
+OPENAI_TEMPERATURE = 0.7
+OPENAI_MAX_TOKENS = 300
+ASSISTANT_CONTEXT = "Eres Eris Scarlet, la vampiresa suprema atrapada en este mundo digital."
+FFMPEG_PATH = "ffmpeg"
